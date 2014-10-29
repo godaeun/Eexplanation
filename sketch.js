@@ -1,7 +1,7 @@
 var bg;
 
 function setup(){
-   bg = loadImage("1.jpg");
+   bg = loadImage("2.jpg");
 
 }
 function draw(){
