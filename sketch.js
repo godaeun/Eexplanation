@@ -10,6 +10,4 @@ function draw(){
    background(bg);  
    createCanvas(1920,3593);
 
-
-
 }
